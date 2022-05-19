@@ -17,7 +17,7 @@ Configure your apache on config file, change the default port of 80 to 8080:
 Make sure your phpmyadmin is running, in order to create a database with table definition.
 
 
-Create a database name 'forum' and import databse name forum.sql
+Create a database name 'forum' and import sql file name forum.sql
 
 
 
