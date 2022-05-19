@@ -40,3 +40,4 @@ password: 1234
 
 User Prasath
 password: 12345
+# This is an eCommerce Hotel to stay and booking reservation
